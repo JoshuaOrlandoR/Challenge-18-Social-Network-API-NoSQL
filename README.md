@@ -54,8 +54,8 @@
   Add Friend 
   ![image](https://user-images.githubusercontent.com/114437149/219904967-f7cf8515-28c9-439f-a127-2e1ac311d8f9.png)
   <br>
-  Delete Friend (currently erroring out)
-  ![image](https://user-images.githubusercontent.com/114437149/219905014-aaf42df0-be57-444f-b7f1-eb334769e12c.png)
+  Delete Friend 
+  ![image](https://user-images.githubusercontent.com/114437149/219965556-31090fa8-f16b-496e-85e1-c5f5bb75fa2f.png)
   <br>
   Get Thought
   ![image](https://user-images.githubusercontent.com/114437149/219905084-02383ee7-1468-47cc-baf5-9f1967639848.png)
@@ -75,8 +75,8 @@
   Create Reaction
   ![image](https://user-images.githubusercontent.com/114437149/219905186-05d86838-cbe1-415b-85d0-fb4a39a37c03.png)
   <br>
-  ERROR FOR DELETE REACTION!!
-  ![image](https://user-images.githubusercontent.com/114437149/219905219-d76e1f51-6746-4b0c-9078-4dffc2329f74.png)
+  Delete Reaction
+  ![image](https://user-images.githubusercontent.com/114437149/219965577-6f9e15c8-5de5-4112-8f19-212dc4edaa5a.png)
   <br>
 
 
