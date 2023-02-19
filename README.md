@@ -33,7 +33,7 @@
   Thank you for your interest in this project! I am not looking for contributions to the program at this time, however, please reach out VIA email if you would like to discuss anything!
 
   ## Tests 
-  WALKTHROUGH VIDEO -
+  WALKTHROUGH VIDEO - https://drive.google.com/file/d/1qw5ZGJw4wWmLRyNCIW16etD9z6BTgEtc/view 
   <br>
   Screenshots - 
   Get User
