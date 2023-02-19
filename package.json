@@ -1,0 +1,25 @@
+{
+  "name": "develop",
+  "version": "1.0.0",
+  "description": "This week's challenge will focus on building an API for a social network app. This API will be powered by ExpressJS for routing, a MongoDB database, and Mongoose ODM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaOrlandoR/Challenge-18-Social-Network-API-NoSQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaOrlandoR/Challenge-18-Social-Network-API-NoSQL/issues"
+  },
+  "homepage": "https://github.com/JoshuaOrlandoR/Challenge-18-Social-Network-API-NoSQL#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongoose": "^6.9.2"
+  }
+}
